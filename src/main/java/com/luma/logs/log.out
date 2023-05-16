@@ -1,0 +1,9 @@
+2023-05-16 23:05:260 INFO  ShoppingCartPage :66 - Text displayed on page [[ChromeDriver: chrome on WINDOWS (6207c26c07a14f447aa6ec20a57dd11e)] -> xpath: //td[@class='col item']//a[normalize-space()='Overnight Duffle']]
+2023-05-16 23:05:663 INFO  ShoppingCartPage :70 - Quantity displayed on page [[ChromeDriver: chrome on WINDOWS (6207c26c07a14f447aa6ec20a57dd11e)] -> css selector: .input-text.qty]
+2023-05-16 23:05:779 INFO  ShoppingCartPage :75 - Price displayed on page [[ChromeDriver: chrome on WINDOWS (6207c26c07a14f447aa6ec20a57dd11e)] -> xpath: //span[@class='cart-price']//span[@class='price'][normalize-space()='$135.00']]
+2023-05-16 23:05:12 INFO  ShoppingCartPage :80 - Quantity displayed on page 5
+2023-05-16 23:05:109 INFO  ShoppingCartPage :84 - Click on Shopping Cart
+2023-05-16 23:05:586 INFO  ShoppingCartPage :88 - Updated Price displayed on Page [[ChromeDriver: chrome on WINDOWS (6207c26c07a14f447aa6ec20a57dd11e)] -> xpath: //span[@class='cart-price']//span[@class='price'][normalize-space()='$225.00']]
+2023-05-16 23:05:249 INFO  ShoppingCartPage :53 - Cronus Yoga Pant text is displayed on page
+2023-05-16 23:05:727 INFO  ShoppingCartPage :57 - Size displayed on page [[ChromeDriver: chrome on WINDOWS (01a07b143a6bbf0e9a145faea50908d5)] -> xpath: //dd[contains(text(),'32')]]
+2023-05-16 23:05:950 INFO  ShoppingCartPage :61 - Color displayed on page [[ChromeDriver: chrome on WINDOWS (01a07b143a6bbf0e9a145faea50908d5)] -> xpath: //dd[contains(text(),'Black')]]
